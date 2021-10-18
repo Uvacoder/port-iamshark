@@ -13,7 +13,7 @@ export default async function handler(
     });
   }
 
-  const userStats = await unsplash.users.statistics('leerob');
+  const userStats = await unsplash.users.statistics('iamsh4shank');
   const { downloads, views } = await toJson(userStats);
 
   res.setHeader(

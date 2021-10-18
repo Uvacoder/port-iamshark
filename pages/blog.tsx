@@ -21,7 +21,7 @@ export default function Blog({
 
   return (
     <Container
-      title="Blog – Lee Robinson"
+      title="Blog – Shashank Priyadarshi"
       description="Thoughts on the software industry, programming, tech, videography, music, and my personal life."
     >
       <div className="flex flex-col items-start justify-center max-w-2xl mx-auto mb-16">
@@ -62,19 +62,19 @@ export default function Blog({
               Most Popular
             </h3>
             <BlogPost
-              title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
-              summary="A deep-dive on everything I've learned in the past year building style guides, design systems, component libraries, and their best practices."
-              slug="style-guides-component-libraries-design-systems"
+              title="Part 1 - Neural Networks and Deep Learning"
+              summary="Introduction to Deep Learning and Neural Networks."
+              slug="Part-1-nn-and-DL"
             />
             <BlogPost
-              title="How Stripe Designs Beautiful Websites"
-              summary="Examining the tips and tricks used to make Stripe's website design a notch above the rest."
-              slug="how-stripe-designs-beautiful-websites"
+              title="Part 2 - Neural Networks and Deep Learning"
+              summary="Let's dive basic ML problem classification and simple Neural Network."
+              slug="part2-nn-and-DL"
             />
             <BlogPost
-              title="Creating a Monorepo with Lerna & Yarn Workspaces"
-              summary="In this guide, you will learn how to create a Monorepo to manage multiple packages with a shared build, test, and release process."
-              slug="monorepo-lerna-yarn-workspaces"
+              title="Part 1 : Following along MIT intro to deep learning"
+              summary="An Intro to Deep Learning"
+              slug="Part-1-nn-and-DL"
             />
           </>
         )}
