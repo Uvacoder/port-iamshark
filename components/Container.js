@@ -40,7 +40,7 @@ export default function Container(props) {
   const meta = {
     title: 'Shashank Priyadarshi – Student, Developer, Traveler.',
     description: `Android Developer developer, Deep Learning, and open source enthusiasts.`,
-    image: 'https://iamsh4shank.me/static/images/banner.jpg',
+    image: 'https://iamsh4shank.me/static/images/banner.png',
     type: 'website',
     ...customMeta
   };
