@@ -53,8 +53,8 @@ export default function Home({ videos }) {
         </h3>
         <div className="flex gap-6 flex-col md:flex-row">
           <BlogPostCard
-            title="Part 5 - Gradient Descent and Backpropagation"
-            slug="part5-nn-and-dl"
+            title="Year End Review: 2021"
+            slug="year_review_2021"
             gradient="from-purple-400 via-pink-500 to-blue-500"
           />
           <BlogPostCard

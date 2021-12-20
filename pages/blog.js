@@ -57,9 +57,9 @@ export default function Blog({ posts }) {
               Most Popular
             </h3>
             <BlogPost
-              title="Part 5 - Gradient Descent and Backpropagation"
-              summary="Dive deeper into why we use backpropagation and deep Neural Networks to solve the correlation problem"
-              slug="part5-nn-and-dl"
+              title="Year End Review: 2021"
+              summary="'Sharing some of my updates about the year 2021: The year of new learnings"
+              slug="year_review_2021"
             />
             <BlogPost
               title="GSoC 2020 Work Report for Android Client app"

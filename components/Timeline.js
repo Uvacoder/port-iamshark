@@ -61,12 +61,11 @@ export default function Timeline() {
       </h3>
       <Year>2021</Year>
       <ul>
-        <Step title="Invited to attend mentor summit for google Summer of Code 2021">
-          Generally only a few mentors are invited to this event, all thanks to COVID-19 this time all mentors are invited to the event. 
+        <Step title="Invited to attend mentor summit for Google Summer of Code 2021">
+          Got a chance to attend the event. 
         </Step>
         <Step title="Joined Atom EI 👨‍👩‍👧‍👦">
-          I'm extremely excited about this new role as a android intern and 
-          as a team lead
+          I'm extremely excited about this new role as an Android engineer Intern. 
         </Step>
         <Step title="Speaker @Code it in your way">
           Took sessions for introduction to AI and discussed about various topics 
@@ -77,6 +76,9 @@ export default function Timeline() {
         </Step>
         <Step title="Took 2nd workshop">
         This workshop was held by the placement cell of my college, I was responsible to take sessions for Android Development using Java.
+        </Step>
+        <Step title="3 Hackathons in a row">
+        Won Digikey Hardware category and Google Cloud category prizes in 3 Hackathons by MLH 
         </Step>
         <Step title="GSoC Mentor @TheASF">
         Mentor for the mobile banking app on top of the Apache Fineract architecture, worked on projects like
