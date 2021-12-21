@@ -57,8 +57,8 @@ export default function Blog({ posts }) {
               Most Popular
             </h3>
             <BlogPost
-              title="Year End Review: 2021"
-              summary="'Sharing some of my updates about the year 2021: The year of new learnings"
+              title="The year with new learnings: 2021"
+              summary="Sharing some of my updates about the year 2021: Year End review"
               slug="year_review_2021"
             />
             <BlogPost
