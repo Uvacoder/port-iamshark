@@ -61,15 +61,15 @@ export default function Timeline() {
       </h3>
       <Year>2022</Year>
       <ul>
-        <Step title="Invited to attend mentor summit for Google Summer of Code 2021">
-          Got a chance to attend the event. 
+        <Step title="ML Intern">
+          Selected as an ML intern in Saptang Labs :D
         </Step>
       </ul>
       <Divider />
       <Year>2021</Year>
       <ul>
-        <Step title="ML Intern">
-          Selected as an ML intern in Saptang Labs :D
+        <Step title="Invited to attend mentor summit for Google Summer of Code 2021">
+          Got a chance to attend the event. 
         </Step>
         <Step title="Joined Atom EI 👨‍👩‍👧‍👦">
           I'm extremely excited about this new role as an Android engineer Intern. 
